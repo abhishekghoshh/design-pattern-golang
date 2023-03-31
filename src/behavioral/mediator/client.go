@@ -1,0 +1,5 @@
+package mediator
+
+func Main() {
+
+}

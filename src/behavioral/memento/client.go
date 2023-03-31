@@ -1,0 +1,5 @@
+package memento
+
+func Main() {
+
+}

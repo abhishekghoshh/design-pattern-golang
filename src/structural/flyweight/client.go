@@ -1,0 +1,5 @@
+package flyweight
+
+func Main() {
+
+}

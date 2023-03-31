@@ -1,0 +1,5 @@
+package prototype
+
+func Main() {
+
+}

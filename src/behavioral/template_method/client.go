@@ -1,0 +1,5 @@
+package templatemethod
+
+func Main() {
+
+}
