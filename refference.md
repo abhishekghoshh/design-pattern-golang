@@ -16,7 +16,9 @@
 	-  ### Abstract Factory Pattern
         - https://refactoring.guru/design-patterns/abstract-factory/go/example
 	-  ### Singleton Pattern
+		- https://refactoring.guru/design-patterns/singleton/go/example
 	-  ### Prototype Pattern
+		- https://refactoring.guru/design-patterns/prototype/go/example
 	-  ### Builder Pattern
         - https://refactoring.guru/design-patterns/builder/go/example
 - ## Structural Design Pattern
