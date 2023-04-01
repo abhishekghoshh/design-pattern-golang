@@ -23,17 +23,27 @@
         - https://refactoring.guru/design-patterns/builder/go/example
 - ## Structural Design Pattern
 	-  ### Adapter Pattern
+		- https://refactoring.guru/design-patterns/adapter/go/example
 	-  ### Bridge Pattern
+		- https://refactoring.guru/design-patterns/bridge/go/example
 	-  ### Composite Pattern
+		- https://refactoring.guru/design-patterns/composite/go/example
 	-  ### Decorator Pattern
+		- https://refactoring.guru/design-patterns/decorator/go/example
 	-  ### Facade Pattern
+		- https://refactoring.guru/design-patterns/facade/go/example
 	-  ### Flyweight Pattern
+		- https://refactoring.guru/design-patterns/flyweight/go/example
 	-  ### Proxy Pattern
+		 - https://refactoring.guru/design-patterns/proxy/go/example
 - ##  Behavioral Design Pattern
 	-  ### Chain Of Responsibility Pattern
+		- https://refactoring.guru/design-patterns/chain-of-responsibility/go/example
 	-  ### Command Pattern
+		- https://refactoring.guru/design-patterns/command/go/example
 	-  ### Interpreter Pattern
 	-  ### Iterator Pattern
+		- https://refactoring.guru/design-patterns/iterator/go/example
 	-  ### Mediator Pattern
 	-  ### Memento Pattern
 	-  ### Observer Pattern
