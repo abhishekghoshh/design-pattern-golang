@@ -57,5 +57,8 @@
 	-  ### State Pattern
 		- https://refactoring.guru/design-patterns/state/go/example
 	-  ### Strategy Pattern
+		- https://refactoring.guru/design-patterns/strategy/go/example
 	-  ### Template Pattern
+		- https://refactoring.guru/design-patterns/template-method/go/example
 	-  ### Visitor Pattern
+		- https://refactoring.guru/design-patterns/visitor/go/example

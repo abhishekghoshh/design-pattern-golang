@@ -1,7 +1,7 @@
 package main
 
 import (
-	"design-pattern/src/behavioral/observer"
+	"design-pattern/src/behavioral/visitor"
 )
 
 func main() {
@@ -18,6 +18,8 @@ func main() {
 	// iterator.Main()
 	// mediator.Main()
 	// memento.Main()
-	observer.Main()
-
+	// observer.Main()
+	// strategy.Main()
+	// templatemethod.Main()
+	visitor.Main()
 }
