@@ -1,7 +1,7 @@
 package main
 
 import (
-	"design-pattern/src/behavioral/iterator"
+	"design-pattern/src/behavioral/observer"
 )
 
 func main() {
@@ -15,5 +15,9 @@ func main() {
 	// flyweight.Main()
 	// proxy.Main()
 	// chainofresponsibility.Main()
-	iterator.Main()
+	// iterator.Main()
+	// mediator.Main()
+	// memento.Main()
+	observer.Main()
+
 }

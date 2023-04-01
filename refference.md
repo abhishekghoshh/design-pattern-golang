@@ -3,11 +3,15 @@
  - https://devcharmander.medium.com/go-builder-pattern-builder-parameters-637cd3f46240
  - https://devcharmander.medium.com/go-builder-pattern-the-functional-way-e40f347017ce
  - https://blog.devgenius.io/factory-patterns-in-go-d9a93ed47d96
+ - https://blog.devgenius.io/builder-pattern-in-go-5c740f369119
  - https://medium.com/@josueparra2892/state-pattern-in-go-eeb05739d12d
  - https://medium.com/@josueparra2892/bridge-pattern-in-go-bba508449db
  - https://medium.com/@MTrax/golang-command-pattern-931c44e7fa11
  - https://medium.com/@MTrax/golang-patterns-singleton-91170817336b
- - https://blog.devgenius.io/builder-pattern-in-go-5c740f369119
+ - https://medium.com/@MTrax/golang-interpreter-pattern-411e6d5e4a30
+ - https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1
+ - https://github.com/tonydeng/design-pattern-golang
+
 
 
 - ## Creational Design Pattern
@@ -45,9 +49,13 @@
 	-  ### Iterator Pattern
 		- https://refactoring.guru/design-patterns/iterator/go/example
 	-  ### Mediator Pattern
+		- https://refactoring.guru/design-patterns/mediator/go/example
 	-  ### Memento Pattern
+		- https://refactoring.guru/design-patterns/memento/go/example
 	-  ### Observer Pattern
+		- https://refactoring.guru/design-patterns/observer/go/example
 	-  ### State Pattern
+		- https://refactoring.guru/design-patterns/state/go/example
 	-  ### Strategy Pattern
 	-  ### Template Pattern
 	-  ### Visitor Pattern
